@@ -5,12 +5,10 @@ html{
 body {
   margin: 0;
   padding: 0;
-  height: 100%;
   font-family: sans-serif;
   background: url('https://media.giphy.com/media/3RVhpIZyLazo4/giphy.gif');
   background-position: center;
   background-size: cover;
-  background-repeat: no-repeat;
   font-family: Raleway;
 }
 
