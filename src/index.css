@@ -12,6 +12,11 @@ body {
   font-family: Raleway;
 }
 
+input[type='datetime-local']::before{
+  content:'on...   ';
+  opacity: 0.6;
+}
+
 .App{
   padding-top:20px;
   display: flex;
